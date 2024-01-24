@@ -30,7 +30,7 @@ namespace Gpm.AssetManagement.Ui
         [MenuItem(MENU_ASSET_MANAGAMENT_ENABLE, true)]
         public static bool ToggleUseDependencyValidate()
         {
-            Menu.SetChecked(MENU_ASSET_MANAGAMENT_ENABLE, GpmAssetManagementManager.Enable);
+            //Menu.SetChecked(MENU_ASSET_MANAGAMENT_ENABLE, GpmAssetManagementManager.Enable);
             return true;
         }
 
