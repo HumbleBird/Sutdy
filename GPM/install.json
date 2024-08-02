@@ -2,36 +2,22 @@
     "installs": [
         {
             "name": "Common",
-            "version": "2.3.1",
+            "version": "2.4.0",
             "dependency": []
         },
         {
             "name": "Communicator",
-            "version": "1.1.0",
+            "version": "1.1.1",
             "dependency": [
                 "Common"
             ]
         },
         {
             "name": "WebView",
-            "version": "2.0.2",
+            "version": "2.0.5",
             "dependency": [
                 "Common",
                 "Communicator"
-            ]
-        },
-        {
-            "name": "Adapter",
-            "version": "2.0.1",
-            "dependency": [
-                "Common"
-            ]
-        },
-        {
-            "name": "DLST",
-            "version": "2.0.1",
-            "dependency": [
-                "Common"
             ]
         },
         {
@@ -43,39 +29,9 @@
         },
         {
             "name": "UI",
-            "version": "2.8.0",
+            "version": "2.9.0",
             "dependency": [
                 "Common",
-                "CacheStorage"
-            ]
-        },
-        {
-            "name": "Shader",
-            "version": "0.1.0",
-            "dependency": []
-        },
-        {
-            "name": "LogViewer",
-            "version": "2.0.3",
-            "dependency": [
-                "Common",
-                "UI",
-                "CacheStorage"
-            ]
-        },
-        {
-            "name": "AssetManagement",
-            "version": "1.2.2",
-            "dependency": [
-                "Common"
-            ]
-        },
-        {
-            "name": "Profiler",
-            "version": "1.0.2",
-            "dependency": [
-                "Common",
-                "UI",
                 "CacheStorage"
             ]
         }
