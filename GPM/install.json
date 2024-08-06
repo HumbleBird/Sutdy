@@ -34,6 +34,43 @@
                 "Common",
                 "CacheStorage"
             ]
+        },
+        {
+            "name": "Shader",
+            "version": "0.1.0",
+            "dependency": []
+        },
+        {
+            "name": "LogViewer",
+            "version": "2.0.4",
+            "dependency": [
+                "Common",
+                "UI",
+                "CacheStorage"
+            ]
+        },
+        {
+            "name": "Profiler",
+            "version": "1.0.2",
+            "dependency": [
+                "Common",
+                "UI",
+                "CacheStorage"
+            ]
+        },
+        {
+            "name": "Adapter",
+            "version": "2.0.1",
+            "dependency": [
+                "Common"
+            ]
+        },
+        {
+            "name": "DLST",
+            "version": "2.0.1",
+            "dependency": [
+                "Common"
+            ]
         }
     ]
 }
