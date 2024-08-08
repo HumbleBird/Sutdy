@@ -9,6 +9,6 @@ EditorBuildSettings:
     path: Assets/GPM/WebView/Sample/Sample.unity
     guid: 57e2aa05fd0fc48d5b7607eaef38ee21
   - enabled: 1
-    path: Assets/Scenes/gpm.unity
+    path: Assets/Scenes/Test.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects: {}
