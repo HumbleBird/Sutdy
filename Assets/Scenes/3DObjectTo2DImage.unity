@@ -575,7 +575,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!65 &1315882997
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1400,7 +1400,7 @@ MonoBehaviour:
   cam: {fileID: 0}
   rt: {fileID: 8400000, guid: 0da9d136c0a7c8142bbc5cd8db7c9e01, type: 2}
   bg: {fileID: 1637705405}
-  grade: 2
+  grade: 1
   size: 4
   obj:
   - {fileID: 2429902705283742384, guid: bf968db8556521c458995ba4e1a29830, type: 3}
